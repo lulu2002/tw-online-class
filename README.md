@@ -6,6 +6,6 @@
 - <a href="/">線上維基百科</a> (製作中)
 
 ### 如何提供專案建議/回報 Bug 呢？
-<a href="/issues/new">點我</a>進入回報頁面，並依照下列格式輸入對應內容即可！
+<a href="https://github.com/lulu2002/tw-online-class/issues/new" target="_blank">點我</a>進入回報頁面，並依照下列格式輸入對應內容即可！
 ![image](https://user-images.githubusercontent.com/41278925/119075475-64a3a500-ba23-11eb-8012-ba5f1df3d8f7.png)
 
