@@ -1,3 +1,6 @@
 [submodule "discord-bot"]
 	path = discord-bot
 	url = git@github.com:lulu2002/tw-classroom-bot.git
+	branch = master
+[submodule "discord-bot/"]
+	branch = master
