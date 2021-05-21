@@ -1,4 +1,0 @@
-[submodule "bot"]
-	path = bot
-	url = git@github.com:lulu2002/tw-classroom-bot.git
-	branch = master
