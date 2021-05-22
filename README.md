@@ -2,7 +2,7 @@
 
 這是一個專為台灣學校線上教學所設計的專案，目標是透過 <a href="https://discord.com/brand-new">Discord</a> 這款成熟的線上語音軟體，讓老師可以輕鬆建立線上教學環境，達成線上點名、學生管理、作業繳交等功能，也讓學生能有最高品質的上課體驗。
 
-- <a href="/">Youtube 教學系列</a> (製作中)
+- <a href="https://github.com/lulu2002/tw-online-class/wiki/%E6%95%99%E5%AD%B8%E5%BD%B1%E7%89%87%E7%B3%BB%E5%88%97">Youtube 教學系列</a>
 - <a href="/">線上維基百科</a> (製作中)
 
 ### 如何提供專案建議/回報 Bug 呢？
